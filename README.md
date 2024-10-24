@@ -1,3 +1,4 @@
 # 101-project-Scientific-calculator
-this is my 1st Git Repository
+This is my 1st Git Repository
+<br>
 Author - Mahfuzur Rahman Limon
